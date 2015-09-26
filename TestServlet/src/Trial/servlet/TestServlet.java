@@ -14,7 +14,7 @@ public class TestServlet extends HttpServlet {
 		out.println("<TITLE>Servlet</TITLE>");
 		out.println("</HEAD>");
 		out.println("<BODY>");
-		out.println("Welcome to Servlet Testing");
+		out.println("Welcome to Servlet Testing gor github");
 		out.println("</BODY>");
 		out.println("</HTML>");
 		
