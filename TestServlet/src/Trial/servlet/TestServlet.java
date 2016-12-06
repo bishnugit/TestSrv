@@ -3,7 +3,9 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import java.io.*;
 import java.util.*;
-
+/*
+ * This is a sample git project
+ */
 public class TestServlet extends HttpServlet {
 
 	public void doGet(HttpServletRequest request,HttpServletResponse response)
@@ -14,7 +16,7 @@ public class TestServlet extends HttpServlet {
 		out.println("<TITLE>Servlet</TITLE>");
 		out.println("</HEAD>");
 		out.println("<BODY>");
-		out.println("Welcome to Servlet Testing gor github");
+		out.println("Welcome to Servlet Testing for github");
 		out.println("</BODY>");
 		out.println("</HTML>");
 		
